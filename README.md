@@ -29,7 +29,7 @@ The primary goal of this project was to create a personal portfolio that effecti
 - **Performance Optimization**: To enhance load times, I optimized images and leveraged browser caching.
 - **Accessibility**: Ensuring the website is accessible to users with disabilities involved implementing proper semantic HTML and ARIA roles.
 
-### 2. Ecommerce Website------------https://cosmic-beignet-9b96b4.netlify.app/
+### 2. Ecommerce Website Enhancement(I chose Amazon Clone)------------https://cosmic-beignet-9b96b4.netlify.app/
 
 #### Objective
 The aim of this project was to develop a fully functional ecommerce website. The website provides a platform for users to browse products, add items to their cart, and complete purchases. This project helped me gain practical experience in web development and enhanced my understanding of ecommerce functionalities.
