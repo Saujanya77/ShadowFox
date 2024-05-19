@@ -7,7 +7,7 @@ I am excited to share that I have received an internship opportunity from **Shad
 
 ## Projects Overview
 
-### 1. Personal Portfolio
+### 1. Personal Portfolio---------https://darling-meerkat-2c8e48.netlify.app/
 
 #### Objective
 The primary goal of this project was to create a personal portfolio that effectively showcases my skills, experiences, and projects. The portfolio serves as a professional online presence where potential employers and collaborators can learn more about my background and abilities.
