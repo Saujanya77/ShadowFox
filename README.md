@@ -7,7 +7,7 @@ I am excited to share that I have received an internship opportunity from **Shad
 
 ## Projects Overview
 
-### 1. Personal Portfolio---------https://tiny-liger-fa1c6b.netlify.app/
+### 1. Personal Portfolio---------https://profound-sawine-751c99.netlify.app/
 
 #### Objective
 The primary goal of this project was to create a personal portfolio that effectively showcases my skills, experiences, and projects. The portfolio serves as a professional online presence where potential employers and collaborators can learn more about my background and abilities.
@@ -29,7 +29,7 @@ The primary goal of this project was to create a personal portfolio that effecti
 - **Performance Optimization**: To enhance load times, I optimized images and leveraged browser caching.
 - **Accessibility**: Ensuring the website is accessible to users with disabilities involved implementing proper semantic HTML and ARIA roles.
 
-### 2. Ecommerce Website Enhancement(I chose Amazon Clone)------------https://cosmic-beignet-9b96b4.netlify.app/
+### 2. Ecommerce Website Enhancement(I chose Amazon Clone)------------https://clever-cuchufli-8c9892.netlify.app/
 
 #### Objective
 The aim of this project was to develop a fully functional ecommerce website. The website provides a platform for users to browse products, add items to their cart, and complete purchases. This project helped me gain practical experience in web development and enhanced my understanding of ecommerce functionalities.
